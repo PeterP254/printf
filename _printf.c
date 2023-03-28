@@ -3,6 +3,7 @@
 /**
  * _printf - prints formatted data to stdout
  * @format: string that contains the format to print
+ * structype: driver
  * Return: number of characters written
  */
 int _printf(char *format, ...)
