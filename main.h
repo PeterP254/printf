@@ -1,4 +1,4 @@
-#ifndef MAIN_H		
+#ifndef MAIN_H          
 #define MAIN_H
 
 #define F_MINUS 1
@@ -15,4 +15,3 @@ int _putchar(char c);
 int _atoi(char *s);
 
 #endif
-
